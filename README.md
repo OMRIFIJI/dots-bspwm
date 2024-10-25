@@ -1,5 +1,9 @@
 # My main dots
 
+## Warning
+I use this branch to specifically backup config of my current PC. 
+It probably won't work on your PC.
+
 ## Overview
 My dots for bspwm PC setup. A good half is shamelessly stolen from [phuocn0302](https://github.com/phuocn0302/dotfiles). Kudos to open source!
 
