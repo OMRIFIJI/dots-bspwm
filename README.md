@@ -20,9 +20,9 @@ This repo includes dots for:
 I switched to [GNU Stow](https://www.gnu.org/software/stow/stow.html)
 to manage my dots with symlinks. It allows to have version control in a subdirectory of home rather than home itself.
 Installing dots with GNU Stow is as easy as:
-1. `git clone --recursive https://github.com/OMRIFIJI/dots-bspwm.git`.
-2. `cd dots-bspwm`.
-3. `stow .`.
+1. `git clone --recursive https://github.com/OMRIFIJI/dots-bspwm.git`
+2. `cd dots-bspwm`
+3. `stow .`
 
 ## Dependencies
 - Nvim setup needs [Nerd Fonts](https://www.nerdfonts.com)
