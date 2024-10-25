@@ -1,2 +1,5 @@
 .git
+.gitignore
+.gitmodules
 Pictures
+README.md
