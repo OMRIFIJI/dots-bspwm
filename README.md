@@ -14,7 +14,6 @@ This repo includes dots for:
 - [x] rofi
 - [x] zsh
 - [x] gtk
-- [x] custom desktop entries
 
 ## How to install?
 I switched to [GNU Stow](https://www.gnu.org/software/stow/stow.html)
