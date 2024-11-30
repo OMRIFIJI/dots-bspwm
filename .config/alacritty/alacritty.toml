@@ -1,4 +1,3 @@
-import = ["/home/omri/.config/alacritty/colors/green-blue.toml"]
 
 [font]
 size = 18
@@ -27,3 +26,6 @@ title = "Alac"
 [window.padding]
 x = 50
 y = 40
+
+[general]
+import = ["/home/omri/.config/alacritty/colors/green-blue.toml"]
