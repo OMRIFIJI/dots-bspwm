@@ -11,6 +11,7 @@ promptinit; prompt gentoo
 
 # Exports
 export EDITOR='nvim'
+export MANPAGER='nvim +Man!'
 export ZSH="$HOME/.oh-my-zsh"
 
 # Set theme

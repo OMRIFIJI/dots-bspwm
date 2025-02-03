@@ -1,7 +1,7 @@
-# My main dots
+# My dotfiles
 
 ## Overview
-My dots for bspwm PC setup. A good half is shamelessly stolen from [phuocn0302](https://github.com/phuocn0302/dotfiles). Kudos to open source!
+My dots for bspwm setup. A good half is shamelessly stolen from [phuocn0302](https://github.com/phuocn0302/dotfiles). Kudos to open source!
 
 ## What's inside?
 This repo includes dots for:
@@ -26,6 +26,9 @@ Installing dots with GNU Stow is as easy as:
 ## Dependencies
 - Nvim setup needs [Nerd Fonts](https://www.nerdfonts.com)
 - Polybar also needs [Nerd](https://www.nerdfonts.com) and [Font Awesome Free](https://fontawesome.com)
+
+## ZSH theme
+You can download my zsh theme [here](https://github.com/jackharrisonsherlock/common) and zsh-vi-mode plugin [here](https://github.com/jeffreytse/zsh-vi-mode).
 
 ## Screenshots
 ![clean screen](Pictures/screen0.png)

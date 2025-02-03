@@ -70,7 +70,7 @@ super + {o,i}
 
 # focus or send to the given desktop
 super + {_,shift + }{1-9,0}
-	bspc {desktop -f,node -d} '^{1-9,10}'
+	$HOME/.config/bspwm/scripts/bspwm_dynamic_desktops.sh {--df,--ns} {1-9,0}
 
 #
 # preselect
