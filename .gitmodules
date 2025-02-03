@@ -1,6 +1,8 @@
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = https://github.com/ohmyzsh/ohmyzsh.git
+	branch = master
 [submodule ".config/nvim"]
 	path = .config/nvim
 	url = https://github.com/OMRIFIJI/nvim-cfg.git
+	branch = main
