@@ -28,6 +28,9 @@ Installing dots with GNU Stow is as easy as:
 - Nvim setup needs [Nerd Fonts](https://www.nerdfonts.com)
 - Polybar also needs [Nerd](https://www.nerdfonts.com) and [Font Awesome Free](https://fontawesome.com)
 
+## ZSH theme
+You can download my zsh theme [here](https://github.com/jackharrisonsherlock/common) and zsh-vi-mode plugin [here](https://github.com/jeffreytse/zsh-vi-mode).
+
 ## Screenshots
 ![clean screen](Pictures/screen0.png)
 ![several windows](Pictures/screen1.png)
