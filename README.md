@@ -31,8 +31,9 @@ Installing dots with GNU Stow is as easy as:
 You can download my zsh theme [here](https://github.com/jackharrisonsherlock/common) and zsh-vi-mode plugin [here](https://github.com/jeffreytse/zsh-vi-mode).
 
 ## Screenshots
-![clean screen](Pictures/screen0.png)
-![several windows](Pictures/screen1.png)
+![clean screen](.config/bspwm/wallpapers/greenblue.jpg)
+
+![screen1](https://github.com/user-attachments/assets/2c1bcaf2-b0e0-4b54-b4d9-ab4f338a27aa)
 
 ## Task list
 - [ ] Better color management
